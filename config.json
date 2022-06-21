@@ -1,0 +1,12 @@
+{
+
+    "epo": "/network/lustre/iss01/home/saeed.zahran/app-epoch/out_dir/meg-epo.fif",
+    "reject_mag": 3000e-15,
+    "reject_grad": 3000e-13,
+    "reject_eeg":100e-6 ,
+    "reject_eog":200e-6,
+    "flat_mag": 1e-15,
+    "flat_grad": 1e-13,
+    "flat_eeg": 1e-6
+
+}
