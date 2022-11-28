@@ -35,11 +35,11 @@ epochs = mne.read_epochs(fname)
 
 
 
-reject_criteria_c = config['reject_criteria_c']
+reject_criteria_c = config['reject_criteria']
 reject_criteria = dict(x.split("=") for x in reject_criteria_c.split(";"))
 reject_criteria_n = dict(zip(reject_criteria.keys(), [float(value) for value in reject_criteria.values()]))
 
-flat_criteria_c = config['flat_criteria_c']
+flat_criteria_c = config['flat_criteria']
 flat_criteria = dict(x.split("=") for x in flat_criteria_c.split(";"))
 flat_criteria_n = dict(zip(reject_criteria.keys(), [float(value) for value in flat_criteria.values()]))
 
