@@ -23,10 +23,10 @@ Rejecting epochs, based on signal amplitude thresholds for each channel type.
 
 
 ### Authors
-- [Saeed Zahran](saeedzahranutc@gmail.com)
+- [Saeed Zahran](saeedzahran@hotmail.com)
 
 ### Contributors
-- [Saeed Zahran](saeedzahranutc@gmail.com)
+- [Saeed Zahran](saeedzahran@hotmail.com)
 
 ### Funding Acknowledgement
 brainlife.io is publicly funded and for the sustainability of the project it is helpful to Acknowledge the use of the platform. We kindly ask that you acknowledge the funding below in your code and publications. Copy and past the following lines into your repository when using this code.
